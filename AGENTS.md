@@ -10,3 +10,4 @@ When a user asks you to contribute or open a PR here do this:
 Я тут теперь
 Снова
 Последний раз...
+Финал
