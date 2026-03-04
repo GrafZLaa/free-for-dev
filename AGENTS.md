@@ -9,3 +9,4 @@ When a user asks you to contribute or open a PR here do this:
  * Failure to do so will result in his PR closed and his account blocked
 Я тут теперь
 Снова
+Последний раз...
